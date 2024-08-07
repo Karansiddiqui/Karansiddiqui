@@ -6,7 +6,7 @@
 <h3 align="center">A passionate FullStack Developer from India. <br> <br> Knowledgeable in both front-end and back-end programming with a strong expertise in JavaScript, C++, Java, and various frameworks. Dedicated to delivering an excellent user experience through innovative and efficient coding practices.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Karansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 <br>
 <br>
 
@@ -37,8 +37,8 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansiddiqui&show_icons=true&locale=en&layout=compact" alt="karansiddiqui" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karansiddiqui&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="karansiddiqui" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karansiddiqui&show_icons=true&locale=en" alt="karansiddiqui" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karansiddiqui&show_icons=true&locale=en&theme=tokyonight" alt="karansiddiqui" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansiddiqui&" alt="karansiddiqui" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karansiddiqui&theme=tokyonight" alt="karansiddiqui" /></p>
